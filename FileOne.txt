@@ -1,1 +1,3 @@
 This is my sample file...After Git...
+
+This is cdoming after the initial commit. can you seem me? 
